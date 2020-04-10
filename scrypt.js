@@ -1,4 +1,4 @@
-function button() {
+function createParagraph() {
   let para = document.createElement('p');
   para.textContent = 'No, pls!!! Noooooooooooo, Im tickled';
   document.body.appendChild(para);
